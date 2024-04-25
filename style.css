@@ -12,4 +12,9 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'chacarapetch, sans-serif';
+    font-family: 'Chakra Petch', sans-serif';
+}
+
+.conteudo-principal{
+    display: flex;
+    
